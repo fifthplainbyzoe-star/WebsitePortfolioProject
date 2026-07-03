@@ -1,6 +1,6 @@
 # Zoe Phiri Portfolio
 ## 🔗 [Click Here to View the Live Storefront]
-(https://delightful-tulumba-e525d0.netlify.app/)
+(https://websitedesignerportfolio.netlify.app/)
 
 ---
 
